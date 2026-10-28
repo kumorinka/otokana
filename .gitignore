@@ -1,0 +1,7 @@
+/build/
+/.mygo/
+mygo_windows_*.syso
+
+# Kept on this machine only: agent skills and tests
+/.agents/
+*_test.go

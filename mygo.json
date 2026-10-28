@@ -1,0 +1,9 @@
+{
+  "name": "OtoKana",
+  "identifier": "com.kumorinka.otokana",
+  "version": "0.1.0",
+  "out": "build",
+  "linux": {
+    "webview": false
+  }
+}
